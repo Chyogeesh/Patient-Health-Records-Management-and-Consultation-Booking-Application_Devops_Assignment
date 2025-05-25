@@ -56,3 +56,16 @@ A secure, role-based healthcare web application where patients can upload medica
 ```bash
 git clone https://github.com/your-username/health-records-app.git
 cd health-records-app
+# Patient Health Records & Booking App
+
+## 🚀 Features
+- Secure record uploads by patients.
+- Doctors can access records and book appointments.
+- Role-based dashboards.
+- Data encryption & HIPAA-style access control.
+
+## 🛠 Setup
+```bash
+pip install -r requirements.txt
+streamlit run app.py
+
